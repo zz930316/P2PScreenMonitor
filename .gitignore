@@ -1,0 +1,32 @@
+﻿# Gradle
+.gradle/
+local.properties
+build/
+*/build/
+detekt-report.txt
+
+# Android / AS
+.idea/
+*.iml
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# C/C++
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+main.cpp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="input_ip_hint">输入被控端虚拟IP</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="connecting">连接中...</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">未连接</string>
+    <string name="reconnecting">重连中...</string>
+    <string name="connection_history">连接历史</string>
+    <string name="no_history">暂无连接记录</string>
+</resources>

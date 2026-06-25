@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sender</string>
+    <string name="start_capture">开始投屏</string>
+    <string name="stop_capture">停止投屏</string>
+    <string name="waiting_connection">等待连接...</string>
+    <string name="streaming">正在推流...</string>
+    <string name="your_ip">请在主控端输入：</string>
+    <string name="notification_channel_name">投屏服务</string>
+    <string name="notification_title">正在投屏中</string>
+    <string name="notification_text">屏幕正在被实时传输</string>
+</resources>
